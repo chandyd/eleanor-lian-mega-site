@@ -1,0 +1,29 @@
+{
+  "name": "eleanor-lian-mega-site",
+  "version": "1.0.0",
+  "description": "Complete interactive website for Eleanor Lian characters and stories",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "dev": "python3 -m http.server 8080",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "eleanor-lian",
+    "fantasy",
+    "characters",
+    "stories",
+    "interactive",
+    "website"
+  ],
+  "author": "Eleanor Lian (Eleonora Baliani)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/eleanor-lian-mega-site.git"
+  },
+  "homepage": "https://eleanor-lian-mega-site.vercel.app",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
